@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aklil Solomon
-- 👀 I’m interested in python the most
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on backend web development with python
+- 👀 I’m interested in Frontend webdevelopment the most
+- 🌱 I’m currently working on React
+- 💞️ I’m looking to collaborate on frontend web development with react
 - 📫 How to reach me?
 - aklilsolomon3@gmail.com
 - t.me/akuna444
