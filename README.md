@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on frontend web development with react
 - 📫 How to reach me?
 - aklilsolomon3@gmail.com
-- [Telegram](t.me/akuna444)
+- [Telegram](https://t.me/akuna444)
 
 
 <!---
