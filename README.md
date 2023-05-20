@@ -55,7 +55,7 @@
   
 <br/>  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Akuna444)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akuna444)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akuna444&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)](https://git.io/streak-stats)
+[![Akuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akuna444&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)](https://github.com/akuna444)
 
  
