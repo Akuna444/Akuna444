@@ -55,6 +55,6 @@
   
 <br/>  
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akuna444)](https://git.io/streak-stats)
+
  
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
